@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there 👋 I'm Khaled
 
-<!--
-**khaled-amireh/khaled-amireh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 AI Student at Al-Zaytoonah University  
+💻 Learning Java and Machine Learning  
+🌐 Building web projects using HTML  
+📊 Interested in Data Analysis and Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,python" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=dark" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amireh&theme=dark" />
+</p>
