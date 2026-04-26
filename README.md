@@ -18,6 +18,20 @@
 ---
 
 ## 📈 GitHub Stats
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Restaurant Website
+🔗 [View Project](https://github.com/khaled-amireh/Resturant)
+
+Simple restaurant website built using HTML.
+Includes working hours and navigation between pages.
+
+---
+
+### ☕ Upcoming Java Projects
+Java console programs and practice projects will be added here soon.
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=dark" />
