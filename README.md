@@ -12,9 +12,8 @@
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,html,css,python,git,github" />
 </p>
-
 ---
 
 ## 📈 GitHub Stats
