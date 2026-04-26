@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Student;Java+Developer;Machine+Learning+Learner;Building+Projects+Everyday" />
+</p>
+
 # 👋 Hey there, I'm Khaled
 
 ## 👨‍💻 About Me
