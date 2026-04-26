@@ -30,6 +30,9 @@
 </p>
 
 ---
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=dark" />
+</p>
 
 ## 🚀 Featured Projects
 
