@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Student;Java+Developer;Machine+Learning+Learner;Building+Projects+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Student;Python+Learner;Machine+Learning+Beginner;Building+Web+Projects" />
 </p>
 
 # 👋 Hey there, I'm Khaled
@@ -7,18 +7,16 @@
 ## 👨‍💻 About Me
 
 🎓 AI Student at Al-Zaytoonah University  
-💻 Learning Java and Machine Learning  
-🌐 Building web projects using HTML  
+🐍 Learning Python and Machine Learning  
+🌐 Building web projects using HTML & CSS  
 📊 Interested in Data Analysis and Power BI  
-
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
