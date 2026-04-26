@@ -44,10 +44,10 @@
 ## 🚀 Featured Projects
 
 ### 📊 Power BI Dashboard  
-🔗 (Will be added soon)
+📊 Power BI Dashboard  
+🔗 [View Project](https://github.com/khaled-amireh/Flipkart-Sales-Dashboard)
 
 Sales dashboard project analyzing product performance and trends.
-
 ---
 
 ### 🤖 Machine Learning Projects  
