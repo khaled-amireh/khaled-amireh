@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Khaled
+# 👋 Hey there, I'm Khaled
 
 ## 👨‍💻 About Me
 
@@ -11,12 +11,14 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,html,css,python,git,github" />
 </p>
+
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=dark" />
 </p>
@@ -24,25 +26,25 @@
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amireh&theme=dark" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Website
+### 🍽️ Restaurant Website  
 🔗 [View Project](https://github.com/khaled-amireh/Resturant)
 
-Simple restaurant website built using HTML.
+Simple restaurant website built using HTML.  
 Includes working hours and navigation between pages.
 
 ---
 
-### ☕ Upcoming Java Projects
+### ☕ Upcoming Java Projects  
+
 Java console programs and practice projects will be added here soon.
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=dark" />
-</p>
+---
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amireh&theme=dark" />
-</p>
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=Profile%20views&color=0e75b6&style=flat" />
