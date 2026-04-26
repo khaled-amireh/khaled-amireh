@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Student;Python+Learner;Machine+Learning+Beginner;Building+Web+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Machine+Learning+Student;Data+Analysis+Learner;Python+Developer;Building+Real+Projects" />
 </p>
 
 # 👋 Hey there, I'm Khaled
@@ -7,16 +7,22 @@
 ## 👨‍💻 About Me
 
 🎓 AI Student at Al-Zaytoonah University  
-🐍 Learning Python and Machine Learning  
-🌐 Building web projects using HTML & CSS  
-📊 Interested in Data Analysis and Power BI  
+🐍 Learning Python for Machine Learning  
+📊 Practicing Data Analysis and Visualization  
+🤖 Interested in Machine Learning and AI Projects  
+
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,python,git,github" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
 </p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -29,24 +35,25 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amireh&theme=dark" />
 </p>
 
----
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=dark" />
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### 🍽️ Restaurant Website  
-🔗 [View Project](https://github.com/khaled-amireh/Resturant)
+### 📊 Power BI Dashboard  
+🔗 (Will be added soon)
 
-Simple restaurant website built using HTML.  
-Includes working hours and navigation between pages.
+Sales dashboard project analyzing product performance and trends.
 
 ---
 
-### ☕ Upcoming Java Projects  
+### 🤖 Machine Learning Projects  
+🔗 (Will be added soon)
 
-Java console programs and practice projects will be added here soon.
+Machine learning models using Python and real datasets.
 
 ---
 
