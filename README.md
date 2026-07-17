@@ -1,44 +1,76 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Student;Building+Real+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Student;Python+Developer;Learning+Machine+Learning;Building+Real+Projects" />
 </p>
 
-# 👋 Hey there, I'm Khaled
+# Hi, I'm Khaled Amireh
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 AI Student at Al-Zaytoonah University
-🐍 Building Python projects (games, logic, automation)
-📊 Learning Data Analysis and Visualization
-🤖 Interested in Machine Learning
+- AI Student at Al-Zaytoonah University.
+- Passionate about Artificial Intelligence and Machine Learning.
+- Building real-world projects using Python.
+- Currently learning Data Analysis, Machine Learning, and Scikit-learn.
+- My goal is to become an AI and Machine Learning Engineer.
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 Tic Tac Toe (Python)
+### Simple Linear Regression - Advertising Dataset
 
-A console-based game where you play against the computer.
+Built three Simple Linear Regression models using TV, Radio, and Newspaper advertising budgets to predict product sales.
 
-🔗 https://github.com/khaled-amireh/tic-tac-toe-python
+**Technologies**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+Repository:
+https://github.com/khaled-amireh/Simple-Linear-Regression-Advertising
 
 ---
 
-### 📊 Power BI Dashboard
+### Tic Tac Toe (Python)
 
-Sales dashboard analyzing product performance.
+A console-based Tic Tac Toe game where the player competes against the computer.
 
-🔗 https://github.com/khaled-amireh/Flipkart-Sales-Dashboard
+Repository:
+https://github.com/khaled-amireh/tic-tac-toe-python
 
 ---
 
-## 👀 Profile Visitors
+## Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=Profile%20views&color=0e75b6&style=flat" />
+- Python for AI
+- Data Analysis
+- Machine Learning
+- Scikit-learn
+- Model Evaluation
+- Feature Engineering
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
