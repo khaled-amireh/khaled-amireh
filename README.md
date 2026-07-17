@@ -14,19 +14,19 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
-- 🎓 AI Student at **Al-Zaytoonah University**
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Interested in Data Analysis and building intelligent systems
-- 🧠 Currently deepening my knowledge of advanced ML techniques
-- 🚀 Building projects to strengthen my AI portfolio
-- 💬 Ask me about Python, Machine Learning, or Data Analysis
-- 📍 Based in Amman, Jordan
+-  AI Student at **Al-Zaytoonah University**
+-  Passionate about Artificial Intelligence & Machine Learning
+-  Interested in Data Analysis and building intelligent systems
+-  Currently deepening my knowledge of advanced ML techniques
+-  Building projects to strengthen my AI portfolio
+-  Ask me about Python, Machine Learning, or Data Analysis
+-  Based in Amman, Jordan
 
 <br/>
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table align="center">
 <tr>
@@ -61,7 +61,7 @@ Predicting product sales using Simple Linear Regression with Scikit-learn.
 </td>
 <td width="50%" valign="top">
 
-**❌⭕ Tic Tac Toe**
+** Tic Tac Toe**
 
 A Python console game where you play against the computer.
 
@@ -73,7 +73,7 @@ A Python console game where you play against the computer.
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -86,7 +86,7 @@ A Python console game where you play against the computer.
 
 <br/>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -102,7 +102,7 @@ A Python console game where you play against the computer.
 
 <em>"The future belongs to those who build intelligent systems."</em>
 
-⭐ Thanks for visiting my profile — feel free to explore my repositories!
+Thanks for visiting my profile — feel free to explore my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:1E90FF&height=100&section=footer"/>
 
