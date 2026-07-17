@@ -52,7 +52,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**📈 Simple Linear Regression — Advertising**
+** Simple Linear Regression — Advertising**
 
 Predicting product sales using Simple Linear Regression with Scikit-learn.
 
