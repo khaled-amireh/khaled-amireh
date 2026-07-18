@@ -70,6 +70,29 @@ A Python console game where you play against the computer.
 </td>
 </tr>
 </table>
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+**House Price Prediction using Multiple Linear Regression**
+
+A Machine Learning project that predicts house prices using the Ames Housing Dataset and Multiple Linear Regression.
+
+[View Repository](https://github.com/khaled-amireh/House-Price-Prediction-MLR)
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Next project -->
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <br/>
 
