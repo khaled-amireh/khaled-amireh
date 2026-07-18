@@ -56,7 +56,7 @@
 
 Predicting product sales using Simple Linear Regression with Scikit-learn.
 
-🔗 [View Repository](https://github.com/khaled-amireh/Simple-Linear-Regression-Advertising)
+ [View Repository](https://github.com/khaled-amireh/Simple-Linear-Regression-Advertising)
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +65,7 @@ Predicting product sales using Simple Linear Regression with Scikit-learn.
 
 A Python console game where you play against the computer.
 
-🔗 [View Repository](https://github.com/khaled-amireh/tic-tac-toe-python)
+ [View Repository](https://github.com/khaled-amireh/tic-tac-toe-python)
 
 </td>
 </tr>
