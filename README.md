@@ -1,55 +1,96 @@
 <div align="center">
 
-# Khaled Amireh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,3B82F6&height=240&section=header&text=Khaled%20Amireh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58"/>
 
-<p>
-Artificial Intelligence Student at Al-Zaytoonah University
-</p>
-
-<p>
-Transforming Data into Intelligent Decisions.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Building+Real+AI+Projects;Future+Machine+Learning+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligent+Decisions.;Machine+Learning+Engineer+(Future);Artificial+Intelligence+Student;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## Profile
+# About Me
 
-I am **Khaled Amireh**, a fourth-year Artificial Intelligence student at **Al-Zaytoonah University, Jordan**.
+I'm **Khaled Amireh**, a fourth-year Artificial Intelligence student from Jordan.
 
-My interests focus on:
+I enjoy building Machine Learning applications, solving real-world problems with data, and continuously improving my programming skills.
+
+### Current Focus
 
 - Machine Learning
 - Data Science
-- Data Analytics
-
-I enjoy building practical AI projects, exploring data, and continuously improving my technical skills through real-world applications.
-
-My current goal is to become a professional **Machine Learning Engineer** while expanding my knowledge in:
-
 - Deep Learning
-- Large Language Models (LLMs)
+- LLMs
 - Retrieval-Augmented Generation (RAG)
-- Modern AI Systems
 
 
+---
 ## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,pycharm,tensorflow,pytorch,sklearn&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode,pycharm&perline=6"/>
 
-</p>
+</div>
+
+---
+## GitHub Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled-amireh&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+## Featured Projects
+
+### Advertising Sales Prediction
+Machine Learning project using **Python**, **Pandas**, and **Scikit-learn** to predict advertising sales through Simple Linear Regression.
 
 ---
 
-<p align="center">
+### Ames Housing Price Prediction
+Data preprocessing and Multiple Linear Regression model for predicting house prices using the Ames Housing dataset.
 
-<img src="https://streak-stats.demolab.com?user=khaled-amireh&theme=github-dark-blue&hide_border=true"/>
+---
 
-</p>
+### Tic Tac Toe
+Console-based Python game demonstrating object-oriented programming fundamentals.
+
+---
+## Currently Learning
+
+- TensorFlow
+- PyTorch
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Engineering
+- MLOps
+
+---
+## Contact
+
+<div align="center">
+
+<a href="mailto:khaledamireh55@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khaled-amireh-0633b3355/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.kaggle.com/khaledamireh">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+
+</div>
 
 ---
