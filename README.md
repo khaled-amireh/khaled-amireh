@@ -94,3 +94,20 @@ Console-based Python game demonstrating object-oriented programming fundamentals
 </div>
 
 ---
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khaled-amireh/khaled-amireh/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khaled-amireh&style=for-the-badge&color=6C63FF"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,3B82F6&height=120&section=footer"/>
