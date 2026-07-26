@@ -33,17 +33,6 @@ I enjoy building Machine Learning applications, solving real-world problems usin
 </div>
 
 ---
-
-# GitHub Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled-amireh&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 # Featured Projects
 
 ### Advertising Sales Prediction
@@ -100,17 +89,13 @@ Console-based Python game demonstrating Object-Oriented Programming fundamentals
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaled-amireh&theme=github-compact&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Snake
 
 <div align="center">
 
