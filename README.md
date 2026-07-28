@@ -19,9 +19,6 @@ I enjoy building Machine Learning applications, solving real-world problems usin
 - Machine Learning
 - Data Science
 - Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
 ---
 
 # Tech Stack
