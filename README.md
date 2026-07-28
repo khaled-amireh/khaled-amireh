@@ -25,7 +25,7 @@ I enjoy building Machine Learning applications, solving real-world problems usin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode,pycharm&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode,pycharm&perline=6"/>
 
 </div>
 
