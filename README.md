@@ -32,24 +32,29 @@ I enjoy building Machine Learning applications, solving real-world problems usin
 ---
 # Featured Projects
 
-### Advertising Sales Prediction
+### [Advertising Sales Prediction](https://github.com/khaled-amireh/Simple-Linear-Regression-Advertising)
 
-Machine Learning project using **Python**, **Pandas**, and **Scikit-learn** to predict advertising sales using Simple Linear Regression.
+Machine Learning project using Python, Pandas, and Scikit-learn to predict advertising sales using Simple Linear Regression.
 
 ---
 
-### Ames Housing Price Prediction
+### [Ames Housing Price Prediction](https://github.com/khaled-amireh/House-Price-Prediction-MLR)
 
 House price prediction using Multiple Linear Regression with preprocessing and evaluation.
 
 ---
 
-### Tic Tac Toe
+### [Football Player Market Value Prediction](https://github.com/khaled-amireh/Football-Player-Value-Prediction)
+
+Football player market value prediction using Random Forest Regression with feature selection, hyperparameter tuning, and model evaluation.
+
+---
+
+### [Tic Tac Toe](https://github.com/khaled-amireh/tic-tac-toe-python)
 
 Console-based Python game demonstrating Object-Oriented Programming fundamentals.
 
 ---
-
 # Currently Learning
 
 - TensorFlow
