@@ -63,7 +63,6 @@ Console-based Python game demonstrating Object-Oriented Programming fundamentals
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Engineering
-
 ---
 
 # Connect With Me
