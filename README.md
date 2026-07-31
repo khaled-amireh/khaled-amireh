@@ -28,7 +28,7 @@ I enjoy building Machine Learning applications, solving real-world problems usin
 <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,pandas,numpy,git,github,vscode,pycharm&perline=6"/>
 
 </div>
-
+=
 ---
 # Featured Projects
 
