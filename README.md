@@ -63,7 +63,6 @@ Console-based Python game demonstrating Object-Oriented Programming fundamentals
 - Retrieval-Augmented Generation (RAG)
 - AI Engineering
 ---
-
 # Connect With Me
 
 <div align="center">
