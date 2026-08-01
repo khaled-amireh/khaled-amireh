@@ -102,7 +102,6 @@ Console-based Python game demonstrating Object-Oriented Programming fundamentals
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
