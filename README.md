@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Intelligent+Decisions.;Machine+Learning+Engineer+(Future);Artificial+Intelligence+Student.;Always+Learning+Something+New."/>
 
 </div>
----
 
 # About Me
 
