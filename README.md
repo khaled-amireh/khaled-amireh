@@ -39,7 +39,6 @@ Machine Learning project using Python, Pandas, and Scikit-learn to predict adver
 ### [Ames Housing Price Prediction](https://github.com/khaled-amireh/House-Price-Prediction-MLR)
 
 House price prediction using Multiple Linear Regression with preprocessing and evaluation.
-
 ---
 
 ### [Football Player Market Value Prediction](https://github.com/khaled-amireh/Football-Player-Value-Prediction)
