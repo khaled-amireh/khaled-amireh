@@ -41,6 +41,11 @@ I'm passionate about Machine Learning, Data Science, and building intelligent so
 Machine Learning project using Random Forest Regression to predict football players' market values with feature selection, hyperparameter tuning, and comprehensive model evaluation.
 
 ---
+### [Customer Churn Prediction](https://github.com/khaled-amireh/customer-churn-prediction)
+
+Machine Learning classification project using Logistic Regression to predict customer churn with data preprocessing, feature engineering, and comprehensive model evaluation.
+
+---
 
 ### [Ames Housing Price Prediction](https://github.com/khaled-amireh/House-Price-Prediction-MLR)
 
@@ -90,24 +95,6 @@ Console-based Python game developed using Object-Oriented Programming principles
 <a href="https://www.kaggle.com/khaledamireh">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=khaled-amireh&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
