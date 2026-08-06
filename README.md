@@ -225,20 +225,15 @@ Expected Graduation: February 2028
 
 ---
 
-## `$ coding-platforms`
-
-No public coding profiles listed yet.
-
----
-
 ## `$ github-analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=F0F6FC&langs_count=8" width="60%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
 ## `$ github-trophies`
