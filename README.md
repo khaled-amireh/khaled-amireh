@@ -240,7 +240,7 @@ Expected Graduation: February 2028
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=khaled-amireh&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=khaled-amireh&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
