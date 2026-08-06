@@ -5,6 +5,11 @@
 <a href="https://github.com/khaled-amireh">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Predictive+Modeling;Data+Analytics+%7C+Data+Science;Building+one+model+at+a+time." alt="Typing SVG" />
 </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=PROFILE+VIEWS&color=10B981&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/khaled-amireh?style=for-the-badge&color=10B981"/>
+  <img src="https://img.shields.io/github/stars/khaled-amireh?style=for-the-badge&color=10B981"/>
+</p>
 
 </div>
 
