@@ -225,26 +225,6 @@ Expected Graduation: February 2028
 
 ---
 
-## `$ github-analytics`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-amireh&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
----
-
-## `$ github-trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khaled-amireh&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## `$ activity-graph`
 
