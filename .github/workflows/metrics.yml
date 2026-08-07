@@ -20,7 +20,7 @@ jobs:
           user: khaled-amireh
           filename: github-metrics.svg
 
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
 
           config_timezone: Asia/Amman
 
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          
+
           plugin_isocalendar: yes
           plugin_followup: yes
           plugin_stars: yes
