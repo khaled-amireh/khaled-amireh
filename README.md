@@ -13,6 +13,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
 <div align="center">
 
 ![Student](https://img.shields.io/badge/Status-AI%20Student-10B981?style=for-the-badge&labelColor=0D1117)
