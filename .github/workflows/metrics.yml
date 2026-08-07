@@ -31,8 +31,6 @@ jobs:
 
           plugin_isocalendar: yes
 
-          plugin_habits: yes
-
           plugin_followup: yes
 
           plugin_stars: yes
