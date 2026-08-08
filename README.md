@@ -221,7 +221,7 @@ Currently focused on coursework and independent ML/Data Analytics projects — n
 
 ## `$ achievements`
 
-- 🏅 **PCEP™ — Certified Entry-Level Python Programmer**
+- **PCEP™ — Certified Entry-Level Python Programmer**
   [Verify on Credly →](https://www.credly.com/badges/5a6013f7-a111-40f5-92f9-f02e5b423238/public_url)
 
 ---
