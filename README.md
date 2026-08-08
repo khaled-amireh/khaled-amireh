@@ -112,7 +112,6 @@ $ cat open_to.txt
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=F0F6FC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F0F6FC)
-![NetBeans](https://img.shields.io/badge/NetBeans-0D1117?style=for-the-badge&logo=apachenetbeanside&logoColor=F0F6FC)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=F0F6FC)
 
 </div>
