@@ -25,13 +25,6 @@
 
 </div>
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/khaledamireh55@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=F0F6FC&labelColor=0D1117)](mailto:khaledamireh55@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=F0F6FC&labelColor=0D1117)](https://www.linkedin.com/in/khaled-amireh-0633b3355/)
-[![GitHub](https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/khaled-amireh)
-
-</div>
 
 <div align="center">
 
