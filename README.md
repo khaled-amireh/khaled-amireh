@@ -46,7 +46,7 @@
 
 I'm an **Artificial Intelligence student** at Al-Zaytoonah University of Jordan, focused on **Machine Learning, Predictive Modeling, and Data Analytics**. I build end-to-end ML pipelines — from data preprocessing to model evaluation — using Python, scikit-learn, and Power BI, and I'm currently looking for internship opportunities to apply what I'm learning in a real-world setting.
 
-- 🎓 Bachelor of Artificial Intelligence, Al-Zaytoonah University of Jordan (Expected Feb 2028)
+-  Bachelor of Artificial Intelligence, Al-Zaytoonah University of Jordan (Expected Feb 2028)
 - 🧠 Interested in Artificial Intelligence, Machine Learning, Data Science, and Data Analytics
 - 🌱 Currently deepening my skills in Machine Learning, Data Science, Advanced Python, and Data Analytics
 - 💼 Open to: AI Intern, Machine Learning Intern, Data Analyst Intern, Junior AI Engineer, Junior ML Engineer
