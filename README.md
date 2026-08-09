@@ -280,8 +280,6 @@ current_focus:
     - AI Intern
     - Machine Learning Intern
     - Data Analyst Intern
-    - Junior AI Engineer
-    - Junior Machine Learning Engineer
 ```
 
 ---
