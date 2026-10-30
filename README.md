@@ -1,303 +1,133 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:10B981&height=180&section=header&text=Khaled%20Amireh&fontSize=48&fontColor=F0F6FC&fontAlignY=50&desc=Artificial%20Intelligence%20Student&descAlignY=75&descColor=22C55E&descSize=18" width="100%"/>
-
-<a href="https://github.com/khaled-amireh">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Predictive+Modeling;Data+Analytics+%7C+Data+Science;Building+one+model+at+a+time." alt="Typing SVG" />
-</a>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khaled-amireh&label=PROFILE+VIEWS&color=10B981&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/khaled-amireh?style=for-the-badge&color=10B981"/>
-  <img src="https://img.shields.io/github/stars/khaled-amireh?style=for-the-badge&color=10B981"/>
+<p>
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/profile-hero.svg" />
+    <img src="assets/profile-hero-static.svg" alt="Khaled Amireh — Artificial Intelligence student focused on machine learning and data analytics" width="1000" />
+  </picture>
 </p>
 
-</div>
-
 <p align="center">
-  <img src="./github-metrics.svg" />
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/focus-typing.svg" />
+    <img src="assets/focus-static.svg" alt="Exploring artificial intelligence; building machine learning models; analyzing data with Python" width="520" />
+  </picture>
 </p>
 
-<div align="center">
+I build Python models for fraud detection, customer analytics, and data-driven prediction.
 
-![Student](https://img.shields.io/badge/Status-AI%20Student-10B981?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Amman%2C%20Jordan-059669?style=for-the-badge&labelColor=0D1117)
-![Open To](https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&labelColor=0D1117)
+**[Explore my portfolio →](https://portfolio-1kpn.onrender.com)** · [LinkedIn](https://www.linkedin.com/in/khaled-amireh-0633b3355/)
 
-</div>
+## About me
 
+I'm an **Artificial Intelligence student at Al-Zaytoonah University of Jordan**, with expected graduation in **February 2028**. I build practical projects in machine learning and data analytics, working from data preparation through model evaluation.
 
-<div align="center">
+My completed **[Oracle Cloud technical training](#experience-and-certification)** added experience with SQL and enterprise reporting. Alongside these foundations, I'm exploring deep learning, NLP, LLMs, and AI automation.
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaled-amireh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=22C55E&text_color=F0F6FC&ring_color=059669" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amireh&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=22C55E&currStreakLabel=10B981&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" width="49%" />
+## Tech stack
 
-</div>
+- **Programming:** Python · SQL
+- **Machine learning & data:** scikit-learn · Pandas · NumPy
+- **Visualization & analytics:** Matplotlib · Seaborn · Power BI · Excel
+- **Tools & platforms:** Git · GitHub · VS Code · Jupyter Notebook · Google Colab · Oracle Fusion Cloud ERP
 
----
+## Featured projects
 
-## `$ whoami`
-
-I'm an **Artificial Intelligence student** at Al-Zaytoonah University of Jordan, focused on **Machine Learning, Predictive Modeling, and Data Analytics**. I build end-to-end ML pipelines — from data preprocessing to model evaluation — using Python, scikit-learn, and Power BI, and I'm currently looking for internship opportunities to apply what I'm learning in a real-world setting.
-
--  Bachelor of Artificial Intelligence, Al-Zaytoonah University of Jordan (Expected Feb 2028)
--  Interested in Artificial Intelligence, Machine Learning, Data Science, and Data Analytics
--  Currently deepening my skills in Machine Learning, Data Science, Advanced Python, and Data Analytics
--  Open to: AI Intern, Machine Learning Intern, Data Analyst Intern, Junior AI Engineer, Junior ML Engineer
--  Reach me at **khaledamireh55@gmail.com**
-
----
-
-## `$ info --verbose`
-
-```bash
-$ whoami
-> khaled_amireh
-
-$ cat role.txt
-> Artificial Intelligence Student
-
-$ cat education.txt
-> Bachelor of Artificial Intelligence
-> Al-Zaytoonah University of Jordan
-> Expected Graduation: February 2028
-
-$ cat location.txt
-> Amman, Jordan
-
-$ cat currently_learning.txt
-> Machine Learning
-> Data Science
-> Advanced Python
-> Data Analytics
-
-$ cat open_to.txt
-> AI Intern
-> Machine Learning Intern
-> Data Analyst Intern
-> Junior AI Engineer
-> Junior Machine Learning Engineer
-```
-
----
-
-## `$ tech-stack`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=10B981)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=10B981)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=10B981)
-![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=10B981)
-
-**Machine Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=059669)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=059669)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=059669)
-
-**Visualization**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=22C55E)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=22C55E)
-
-**Database**
-
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F0F6FC)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F0F6FC)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=F0F6FC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F0F6FC)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=F0F6FC)
-
-</div>
-
----
-
-## `$ specializations`
-
-- **Machine Learning** — supervised learning models trained end-to-end from raw data to evaluation
-- **Predictive Modeling** — regression and classification models for real-world prediction tasks
-- **Data Analytics** — exploratory analysis, dashboards, and insight generation from raw datasets
-
----
-
-## `$ expertise-table`
-
-| Domain | Tools & Libraries |
-|---|---|
-| Programming | Python, Java, R |
-| Data Manipulation | Pandas, NumPy |
-| Machine Learning | scikit-learn |
-| Data Visualization | Matplotlib, Power BI |
-| Databases | Oracle SQL, SQL |
-| Environments | Jupyter Notebook, VS Code, NetBeans |
-| Version Control | Git, GitHub |
-
----
-
-## `$ featured-projects`
+Results are from saved notebook evaluations; external validation is not reported.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔹 [Customer Churn Prediction](https://github.com/khaled-amireh/customer-churn-prediction)
-Logistic Regression model predicting customer churn, covering preprocessing, one-hot encoding, feature scaling, and evaluation.
-
-**Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib
-**Result:** 83.16% accuracy, 0.83 precision/recall/F1
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Football Player Value Prediction](https://github.com/khaled-amireh/Football-Player-Value-Prediction)
-Random Forest Regression model estimating football players' market value from FIFA attributes, with hyperparameter comparison across tree counts.
-
-**Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib
-**Result:** R² 0.9877 at 300 trees
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [House Price Prediction (MLR)](https://github.com/khaled-amireh/House-Price-Prediction-MLR)
-Multiple Linear Regression model predicting house prices on the Ames Housing dataset, including missing-value handling and one-hot encoding.
-
-**Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib
-**Result:** R² ≈ 0.741
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Simple Linear Regression — Advertising](https://github.com/khaled-amireh/Simple-Linear-Regression-Advertising)
-Three Simple Linear Regression models comparing TV, Radio, and Newspaper advertising as predictors of sales.
-
-**Stack:** Python, scikit-learn, Pandas, NumPy, Matplotlib
-**Result:** TV advertising was the strongest single predictor
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Flipkart Sales Dashboard](https://github.com/khaled-amireh/Flipkart-Sales-Dashboard)
-Power BI dashboard analyzing Flipkart sales data — product performance, sales trends, and customer purchasing patterns.
-
-**Stack:** Power BI, Data Cleaning, Data Visualization
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Tic Tac Toe (Python)](https://github.com/khaled-amireh/tic-tac-toe-python)
-Console-based Tic Tac Toe game against the computer, with input validation and win/lose/draw detection.
-
-**Stack:** Python
-
+<td width="1000" valign="top">
+  <sub>01 / FRAUD DETECTION</sub>
+  <h3><a href="https://github.com/khaled-amireh/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a></h3>
+  <p>Engineers transaction-time features and fits a class-weighted, 150-tree Random Forest, with categorical encoding learned from training data.</p>
+  <p><strong>Tools:</strong> Python · scikit-learn · Pandas<br>
+  <strong>PR-AUC 0.8610</strong> on the supplied simulated test set.</p>
 </td>
 </tr>
 </table>
 
----
+<table>
+<tr>
+<td width="1000" valign="top">
+  <sub>02 / CUSTOMER ANALYTICS</sub>
+  <h3><a href="https://github.com/khaled-amireh/Customer-Churn-Prediction">Customer Churn Prediction</a></h3>
+  <p>Classifies churn from customer activity and subscription fields with Logistic Regression. One-hot encoding and scaling are fitted on training data.</p>
+  <p><strong>Tools:</strong> Python · scikit-learn · Pandas<br>
+  <strong>83.16% accuracy</strong> on one 80/20 train/test split.</p>
+</td>
+</tr>
+</table>
 
-## `$ experience`
+<table>
+<tr>
+<td width="1000" valign="top">
+  <sub>03 / SPORTS ANALYTICS</sub>
+  <h3><a href="https://github.com/khaled-amireh/Football-Player-Value-Prediction">Football Player Value Prediction</a></h3>
+  <p>Estimates FIFA dataset valuations from 14 numeric player attributes with a 300-tree Random Forest, supported by residual and feature-importance analysis.</p>
+  <p><strong>Tools:</strong> Python · scikit-learn · Matplotlib<br>
+  <strong>R² 0.9877</strong> on one 80/20 train/test split.</p>
+</td>
+</tr>
+</table>
 
-Currently focused on coursework and independent ML/Data Analytics projects — no professional work experience yet. This section will be updated as I take on internships and roles.
+<table>
+<tr>
+<td width="1000" valign="top">
+  <sub>04 / CUSTOMER SEGMENTATION</sub>
+  <h3><a href="https://github.com/khaled-amireh/Customer-Segmentation-RFM">Customer Segmentation · RFM</a></h3>
+  <p>Builds recency, frequency, and spending profiles, then compares four-cluster K-Means and Ward solutions after log transformation and scaling.</p>
+  <p><strong>Tools:</strong> Python · Pandas · scikit-learn<br>
+  <strong>Silhouette 0.3663</strong> for K-Means; internal cluster evaluation.</p>
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td width="1000" valign="top">
+  <sub>05 / ASSOCIATION RULES</sub>
+  <h3><a href="https://github.com/khaled-amireh/Ecommerce-Market-Basket">E-Commerce Market Basket Analysis</a></h3>
+  <p>Builds baskets from filtered UK invoices and mines Apriori association rules among the 100 most frequent products.</p>
+  <p><strong>Tools:</strong> Python · Pandas · mlxtend<br>
+  <strong>Lift 16.02</strong> for one saved rule in the filtered baskets; descriptive association.</p>
+</td>
+</tr>
+</table>
 
-## `$ achievements`
+<table>
+<tr>
+<td width="1000" valign="top">
+  <sub>06 / REGRESSION</sub>
+  <h3><a href="https://github.com/khaled-amireh/House-Price-Prediction-MLR">House Price Prediction</a></h3>
+  <p>Estimates Ames house prices with multiple linear regression, missing-value handling, and categorical encoding.</p>
+  <p><strong>Tools:</strong> Python · Pandas · scikit-learn<br>
+  <strong>Recorded R² 0.741</strong> on one 80/20 split. Pre-split preprocessing may inflate this score.</p>
+</td>
+</tr>
+</table>
 
-- **PCEP™ — Certified Entry-Level Python Programmer**
-  [Verify on Credly →](https://www.credly.com/badges/5a6013f7-a111-40f5-92f9-f02e5b423238/public_url)
+**[View All Projects →](https://github.com/khaled-amireh?tab=repositories)** · [Explore project details on my portfolio](https://portfolio-1kpn.onrender.com)
 
----
+## Experience and certification
 
-## `$ education`
+### Oracle Cloud Technical Trainee
 
-**Bachelor of Artificial Intelligence**
-Al-Zaytoonah University of Jordan
-Expected Graduation: February 2028
+Software consultancy · **July 2026 – September 2026** · Completed training
 
----
+- Worked with **Oracle SQL** queries, report datasets, and reporting data models in **Oracle Fusion Cloud ERP**.
+- Tested queries and debugged reporting issues during technical training.
 
+**PCEP — Certified Entry-Level Python Programmer** · Python Institute · [Verify credential](https://www.credly.com/badges/5a6013f7-a111-40f5-92f9-f02e5b423238/public_url)
 
-## `$ activity-graph`
+## GitHub streak
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/khaled-amireh">
+    <img src="https://streak-stats.demolab.com/?user=khaled-amireh&amp;background=0B1220&amp;border=243244&amp;stroke=243244&amp;ring=14B8A6&amp;fire=14B8A6&amp;currStreakLabel=14B8A6&amp;sideLabels=B8D4D4&amp;currStreakNum=F0F7F7&amp;sideNums=F0F7F7&amp;dates=A8BDC8&amp;border_radius=12&amp;disable_animations=true&amp;timezone=Asia%2FAmman" alt="GitHub Streak: total contributions, current daily streak, and longest daily streak for khaled-amireh" width="495" />
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaled-amireh&theme=react-dark&bg_color=0D1117&color=10B981&line=22C55E&point=F0F6FC&hide_border=true" width="90%"/>
+## Connect
 
-</div>
+Open to AI/ML internships and project collaboration.
 
----
-
-## `$ summary-cards`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khaled-amireh&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaled-amireh&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khaled-amireh&theme=github_dark" width="32%"/>
-
-</div>
-
-> Summary cards render live from your GitHub activity — no setup needed beyond this README.
-
----
-
-## `$ contribution-snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/khaled-amireh/khaled-amireh/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-> This animation needs a small one-time setup: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo so it generates the `output` branch automatically.
-
----
-
-## `$ current-focus.yaml`
-
-```yaml
-current_focus:
-  learning:
-    - Machine Learning
-    - Data Science
-    - Advanced Python
-    - Data Analytics
-  specialization:
-    - Machine Learning
-    - Predictive Modeling
-    - Data Analytics
-  open_to:
-    - AI Intern
-    - Machine Learning Intern
-    - Data Analyst Intern
-```
-
----
-
-## `$ connect`
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=F0F6FC&labelColor=0D1117)](mailto:khaledamireh55@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=F0F6FC&labelColor=0D1117)](https://www.linkedin.com/in/khaled-amireh-0633b3355/)
-[![GitHub](https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/khaled-amireh)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:0D1117&height=100&section=footer" width="100%"/>
-
-<sub>Built with data, patience, and a lot of `fit()` calls.</sub>
-
-</div>
+**[Portfolio →](https://portfolio-1kpn.onrender.com)** · [GitHub](https://github.com/khaled-amireh) · [LinkedIn](https://www.linkedin.com/in/khaled-amireh-0633b3355/) · [khaledamireh55@gmail.com](mailto:khaledamireh55@gmail.com)

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title description">
+  <title id="title">Khaled Amireh</title>
+  <desc id="description">Artificial Intelligence student focused on machine learning and data analytics. A restrained teal neural network sits beside the name on a dark navy background.</desc>
+  <defs>
+    <radialGradient id="light" cx="85%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.10" />
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="16" fill="#0B1220" stroke="#243244" />
+  <rect x="1" y="1" width="998" height="258" rx="16" fill="url(#light)" />
+  <g fill="none" stroke="#14B8A6" stroke-width="1.2" stroke-opacity="0.22">
+    <path d="M650 84 718 48 775 104 850 60 927 99 949 173 876 211 802 168 725 214 654 170 650 84" />
+    <path d="M650 84 775 104 725 214M718 48 802 168 927 99M654 170 775 104 876 211M850 60 802 168 949 173M654 170 802 168" />
+  </g>
+  <g fill="#0B1220" stroke="#14B8A6" stroke-width="1.5">
+    <circle cx="650" cy="84" r="3" stroke-opacity="0.50" />
+    <circle cx="718" cy="48" r="3" stroke-opacity="0.35" />
+    <circle cx="775" cy="104" r="5" stroke-opacity="0.80" />
+    <circle cx="850" cy="60" r="3" stroke-opacity="0.45" />
+    <circle cx="927" cy="99" r="3" stroke-opacity="0.40" />
+    <circle cx="949" cy="173" r="3" stroke-opacity="0.35" />
+    <circle cx="876" cy="211" r="3" stroke-opacity="0.50" />
+    <circle cx="802" cy="168" r="5" stroke-opacity="0.80" />
+    <circle cx="725" cy="214" r="3" stroke-opacity="0.35" />
+    <circle cx="654" cy="170" r="3" stroke-opacity="0.40" />
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="48" y="59" fill="#A8BDC8" font-size="18" letter-spacing="2">ARTIFICIAL INTELLIGENCE STUDENT</text>
+    <text x="44" y="140" fill="#F0F7F7" font-size="72" font-weight="600" letter-spacing="-2">Khaled Amireh</text>
+    <text x="48" y="184" fill="#B8D4D4" font-size="26">Machine learning &amp; data analytics</text>
+  </g>
+  <path d="M48 216H104" stroke="#14B8A6" stroke-width="3" />
+</svg>
