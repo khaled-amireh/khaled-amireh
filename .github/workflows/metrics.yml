@@ -24,6 +24,23 @@ jobs:
 
           config_timezone: Asia/Amman
 
+          # Keep generated contributions and isometric cells in the same blue
+          # palette as the profile. Data and calendar geometry are unchanged.
+          extras_css: |
+            svg { color: #CBD5E1; }
+            .items-wrapper { background: #0B1220; border: 1px solid #2563EB; border-radius: 12px; }
+            h1, h2, h3 { color: #60A5FA; }
+            .field svg { fill: #60A5FA; }
+            .repository .name span:first-child { color: #60A5FA; }
+            .repository .description, .repository .infos, .repository .name span:last-child { color: #94A3B8; }
+            code, span.code { color: #CBD5E1; background-color: #132238; }
+            svg [fill="#ebedf0"] { fill: #132238; }
+            svg [fill="#9be9a8"] { fill: #1E3A8A; }
+            svg [fill="#40c463"] { fill: #2563EB; }
+            svg [fill="#30a14e"] { fill: #3B82F6; }
+            svg [fill="#216e39"] { fill: #60A5FA; }
+            @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used

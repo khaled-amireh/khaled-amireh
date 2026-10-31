@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="44" viewBox="0 0 520 44" role="img" aria-labelledby="title description">
   <title id="title">AI, machine learning, and data analytics</title>
   <desc id="description">A static alternative to the typing animation, with light text on a dark navy background.</desc>
-  <rect x="0.5" y="0.5" width="519" height="43" rx="8" fill="#0B1220" stroke="#243244"/>
-  <text x="16" y="29" fill="#B8D4D4" font-family="Consolas, Liberation Mono, monospace" font-size="20">AI / Machine learning / Data analytics</text>
+  <rect x="0.5" y="0.5" width="519" height="43" rx="8" fill="#0B1220" stroke="#1E3A5F"/>
+  <text x="16" y="29" fill="#CBD5E1" font-family="Consolas, Liberation Mono, monospace" font-size="20">AI / Machine learning / Data analytics</text>
 </svg>

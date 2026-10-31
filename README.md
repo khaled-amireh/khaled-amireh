@@ -122,9 +122,15 @@ Software consultancy · **July 2026 – September 2026** · Completed training
 
 <p align="center">
   <a href="https://github.com/khaled-amireh">
-    <img src="https://streak-stats.demolab.com/?user=khaled-amireh&amp;background=0B1220&amp;border=243244&amp;stroke=243244&amp;ring=14B8A6&amp;fire=14B8A6&amp;currStreakLabel=14B8A6&amp;sideLabels=B8D4D4&amp;currStreakNum=F0F7F7&amp;sideNums=F0F7F7&amp;dates=A8BDC8&amp;border_radius=12&amp;disable_animations=true&amp;timezone=Asia%2FAmman" alt="GitHub Streak: total contributions, current daily streak, and longest daily streak for khaled-amireh" width="495" />
+    <img src="assets/github-streak.svg" alt="Latest available GitHub snapshot: total contributions, current daily streak, and longest daily streak for khaled-amireh" width="495" />
   </a>
 </p>
+
+<!-- streak-snapshot:start -->
+<p align="center"><sub>Latest available snapshot · Retrieved 2026-10-31 12:03 (Asia/Amman)</sub></p>
+<!-- streak-snapshot:end -->
+
+<p align="center"><sub>Refresh scheduled every 4 hours · GitHub contributions may take up to 24 hours to appear · <a href="https://github.com/khaled-amireh?tab=overview">View contributions</a></sub></p>
 
 ## Connect
 
